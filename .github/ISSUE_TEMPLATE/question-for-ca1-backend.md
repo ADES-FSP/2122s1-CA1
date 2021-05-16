@@ -1,5 +1,5 @@
 ---
-name: Question for CA1 backend
+name: Question for CA1 Backend
 about: "[Backend] For students to ask development questions"
 title: "[Backend] Summarize your question in one sentence"
 labels: backend, help wanted, question
